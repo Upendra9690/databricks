@@ -1,0 +1,4 @@
+-- Databricks notebook source
+-- MAGIC %sql
+-- MAGIC 
+-- MAGIC Testing to commit in a notebook
